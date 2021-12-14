@@ -1,5 +1,8 @@
-- :star: 主要使用: Python，C++
-- 📫 联系方式: jameshoi@foxmail.com
-- 📫 个人博客: [James Hoi's blog](https://jameshoi.github.io)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jameshoi.jameshoi)
+![GitHub followers](https://img.shields.io/github/followers/jameshoi?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/jameshoi?style=social)
+- Student at Beijing University of Posts and Telecommunications
+- A CTFer focus on Reverse Engineering
+- Email: jameshoi@foxmail.com
+- Blog: [James Hoi's blog](https://jameshoi.github.io)
 
 ![JamesHoi's github stats](https://github-readme-stats.vercel.app/api?username=JamesHoi&show_icons=true)  
