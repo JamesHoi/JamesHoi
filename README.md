@@ -1,7 +1,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/jameshoi?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/jameshoi?style=social)
-- Student of Beijing University of Posts and Telecommunications
-- A CTFer focus on Reverse Engineering
+- M.Phil. Student of Zhejiang University
 - Interested in Robotics and Computer Vision
+- Former CTFer@天枢Dubhe, interested in Reverse Engineering
 - Email: jameshoi@foxmail.com
 - Blog: [James Hoi's blog](https://jameshoi.github.io)
 
